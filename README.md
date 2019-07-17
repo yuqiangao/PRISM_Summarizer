@@ -7,6 +7,8 @@ method first select the fraction which contains the largest peak area of
 internal standard peptide (heavy) and then report the total peak area ratio of the endogenous 
 peptide (light) against the internal standard peptide (heavy).
 
+![Diagram](Images/Diagram.jpg)
+
 ## Getting started
 ### System requirement
 Windows 64-bit
