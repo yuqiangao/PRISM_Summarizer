@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<views>
+  <view name="PRISM-output" rowsource="pwiz.Skyline.Model.Databinding.Entities.Precursor" sublist="Results!*">
+    <column name="Results!*.Value.PeptideResult.ResultFile.Replicate.Name" />
+    <column name="Peptide.Protein.Name" />
+    <column name="Peptide.Sequence" />
+    <column name="IsotopeLabelType" />
+    <column name="Results!*.Value.TotalArea" />
+    <column name="Results!*.Value.TotalAreaRatio" />
+  </view>
+</views>
